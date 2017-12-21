@@ -58,5 +58,4 @@ Replace USERNAME in examples above with your username.
 
 # Note about the author
 The original author of GCM is Renzo Bertuzzi (kuthulu@gmail.com) and all credit goes to him. I really liked the 
-application and decided to fix some bugs and add features that I need in everyday use. If you find my fork of GCM 
-useful and would like to see some new features added don't hesitate to contact me at: matko.jun@gmail.com
+application and decided to fix some bugs and add features that I need in everyday use.
